@@ -1,22 +1,7 @@
-# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Mm]emoryCaptures/
-
-# Visual Studio / VS Code / Mono files
-*.csproj
-*.unityproj
-*.sln
-*.user
-*.pidb
-*.booproj
-*.svd
-.vscode/
-
-# OS generated files
-.DS_Store
-Thumbs.db
+[Uu]serSettings/
