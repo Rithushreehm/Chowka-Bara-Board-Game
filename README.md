@@ -37,6 +37,17 @@ Key scripts inside `Assets/Script/`:
 - Inspired by the traditional Indian board game *Chowka Bara*.
 - Built using Unity Engine.
 
+## Screenshots
+
+   ### AI Player
+   ![AI Player](screenshots/AI player.png)
+
+   ### UI
+   ![UI](screenshots/UI.png)
+
+   ### Unity Editor
+   ![Unity](screenshots/UNITY.png)
+
 ## License
 
 This project is licensed under a **Non‑Commercial Use License**.  
