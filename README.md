@@ -40,7 +40,7 @@ Key scripts inside `Assets/Script/`:
 ## Screenshots
 
    ### AI Player
-   ![AI Player](screenshots/AI player.png)
+   ![AI Player](screenshots/AIplayer.png)
 
    ### UI
    ![UI](screenshots/UI.png)
